@@ -29,7 +29,7 @@ Continent, one of the larger continuous masses of land, namely, Asia, Africa, No
 
 Source: https://www.britannica.com/science/continent
 
-
+![World-map-Continents-Oceans-Seas](https://user-images.githubusercontent.com/12828104/121474256-1a7b6700-c9c4-11eb-899a-dc659d69187a.jpg)
 
 ### 100 - Asia
 
