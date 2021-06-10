@@ -112,6 +112,10 @@ Source: https://www.britannica.com/science/continent
 
 ![World-map-Continents-Oceans-Seas](https://user-images.githubusercontent.com/12828104/121474256-1a7b6700-c9c4-11eb-899a-dc659d69187a.jpg)
 
+Work-related example
+
+![What_to_spend_our_time_on](https://user-images.githubusercontent.com/12828104/121496228-8d8fd800-c9da-11eb-9943-99a353de5d0c.png)
+
 ### 100 - Asia
 
 Life Category: Mind
